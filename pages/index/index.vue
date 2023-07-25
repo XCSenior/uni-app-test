@@ -17,6 +17,9 @@
 		onLoad() {
 
 		},
+		onPullDownRefresh() {
+			console.log("页面下拉刷新了");
+		},
 		methods: {
 
 		}
