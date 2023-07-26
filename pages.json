@@ -50,5 +50,17 @@
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	},
-	"uniIdRouter": {}
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3CC51F",
+		"borderStyle": "black",
+		"backgroundColor": "#FFF",
+		"list": [
+			{
+				"pagePath": "pages/index/index"
+				// "iconPath": "static/logo.png"
+			}
+		]
+	}
 }
